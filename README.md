@@ -1,3 +1,5 @@
+# skincare-website
+This project is for my frontend portfolio . For frontend i will use React and for backend i will choose golang.
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
